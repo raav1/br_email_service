@@ -1,2 +1,3 @@
 # br_email_service
-Service to send email
+This Service  is used to send email. 
+The emails source can be from any exchange server.
